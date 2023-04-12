@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/master.css">
-    <title>About Seth</title>
-</head>
-<body>
+# Seth's Website
+My website.
+
+## Header Code
+```html
     <header>
         <ul class="menubar">
             <li><a href="./index.html">Home</a></li>
@@ -18,9 +13,4 @@
             <li><a href="https://discord.com/users/549394846083842058"><img src="assets/discord-mark-black.svg" class="social-icon" height=35px></a></li>
         </ul>
     </header>
-    <div style="padding: 10px;">
-        <h1>About Seth</h1>
-        <p>Hello there I'm a Texan programmer who is currently living in Kyoto, Japan. I love to take photos, play games, and yell at my textediter.</p>
-    </div>
-</body>
-</html>
+```
