@@ -1,7 +1,30 @@
 [
     {
         "brand":"WallDeca",
-        "type":"Brush tip marker",
-        "color":"Orange"
+        "type":"Brush tip marker (Felt tip)",
+        "color":"Orange",
+        "madein":"N/A",
+        "details":""
+    },
+    {
+        "brand":"Pilot",
+        "type":"Fountin pen",
+        "color":"Black",
+        "madein":"Japan",
+        "details":""
+    },
+    {
+        "brand":"Pilot",
+        "type":"Ball point, gell, erasable",
+        "color":"Red",
+        "madein":"Japan",
+        "details":"FriXion ball, 0.5mm"
+    },
+    {
+        "brand":"Pilot",
+        "type":"Ball point, gell, erasable",
+        "color":"Red",
+        "madein":"Japan",
+        "details":"FriXion ball, 0.7mm"
     }
 ]
